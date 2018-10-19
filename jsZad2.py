@@ -1,0 +1,5 @@
+rachunek =float(input("wpisz kwotę rachunku: 	"))
+print ("Kwota bez napiwku to:	",round((rachunek),2))
+print("Napiwek 15% wynosi:	 ",round((rachunek*0.15),2))
+print("Napiwek 20% wynosi:	 ",round((rachunek*0.20),2))
+input("\n\nAby zakończyć wciśnij dwa razy Enter")
