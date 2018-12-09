@@ -1,0 +1,5 @@
+przysmak1=input("Podaj pierwszy smaczek: ")
+przysmak2=input("Podaj drugi smaczek: ")
+input("Wynik przysmaków poznasz po jednokrotnym wciśnięciu Enter \n")
+print(przysmak1+przysmak2)
+input("\n\nAby zakończyć wciśnij dwa razy Enter")
